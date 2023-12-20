@@ -1,3 +1,3 @@
 # azure
-Learning Azure
-This is second line added by Parth 
+Learning Azure <br>
+This is second line added by <b>Parth</b>
